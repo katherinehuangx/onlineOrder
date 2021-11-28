@@ -11,7 +11,13 @@ Spring framework core technologies is used to loosely decouple all the component
 - Logic tier: Spring framework including Spring security
 - Data tier: MySQL database, Hibernate
 
+![flowchart](images/onlineOrder Diagram.PNG)
+
 ### Frontend
 - React and Ant Design
 
 (Note that frontend code is in a separate repo.)
+
+### Project Structure
+![structure](images/onlineOrder Diagram2.PNG)
+
